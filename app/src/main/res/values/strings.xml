@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="no_elements">No elements</string>
+    <string name="heading">Heading</string>
+    <string name="description">Description</string>
+    <string name="no_imput">введите название города </string>
+    <string name="go_to_use_api">go to use api</string>
+    <string name="waiting">"Waiting......"</string>
+</resources>
